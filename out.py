@@ -125,7 +125,7 @@ if __name__ == "__main__":
     print(np.shape(motion_type['squat']))
     print(angle_list(m_type='squat', all_keypoints=data))
     plot_angle(m_type='squat', a_list=angle_list(m_type='squat', all_keypoints=data))
-    print(1)
+    print(2)
 
 
 
